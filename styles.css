@@ -1,0 +1,102 @@
+html,body{height:100%;}
+body{margin:0 auto;font:12px Arial, Helvetica, sans-serif;padding:0px;}
+#container{margin:0 auto;width:960px;}
+.menu{background:pink;height:15px;padding:10px 4px;}
+.menu ul{list-style:none;}
+.menu ul li{display:inline;float:left;}
+.menu ul li a{width:160px;display:block;}
+.clear{clear:both;}
+*{padding:0px;margin:0px;}
+.form_wrap{width:100%;}
+.form_tr{width:100%;float:left;padding-bottom:4px;}
+.form_td{float:left;padding-left:5px;}
+.rgtd{width:130px;}
+.content{display:none;margin-bottom:100px;}
+.left{float:left;}
+.right{float:right}
+.leftprofile{float:left;border:1px solid pink;width:300px;min-height:200px;height:auto;border-right:none;}
+.rightprofile{float:left;border:1px solid pink;width:657px;min-height:300px;height:auto;}
+.profile{margin:0 auto;width:120px;}
+.profilename{text-align:center;width:300px;}
+.profile_sections{padding:5px;}
+.prof_about{width:630px;text-align:justify}
+ul{list-style-type:none}
+#profile_menu li{float:left;}
+#profile_menu li a{width:120px;display:block;}
+.wall{padding:10px 0;}
+input{padding:5px;border:1px solid /*#c0c0c0*/#FFC0CB;color:red;}
+select{border:1px solid #FFC0CB;color:red;}
+
+.postwallsection{padding:5px;}
+.postwallsection .form_tr{border-bottom:1px dashed #c0c0c0;margin:5px 0;}
+.ajaxmsgr{display:none;}
+.postwallsection .wallmessage{width:570px;color:#66803A;text-align:justify;}
+.getrecent{border-bottom:1px solid #c0c0c0;}
+.wallgtd{width:50px;}
+.wall_likes{width:10px;}
+.dnone{display:none;}
+.prof_info ul li{float:left;width:120px;}
+.dinfo{padding:10px 0;}
+.messageboard .pagilitoy{display:none;}
+.pagilitoy{background: none repeat scroll 0 0 pink; color: #FFFFFF;display: inline; float: left;text-align: center;width: 40px;}
+.pink{background:pink;}
+.add_dates a{color:pink;border:none;}
+.add_dates a img{border:none;}
+
+/* this is for the dates css */
+#gallery { float: left; width: 77%; min-height: 12em; } * html #gallery { height: 12em; } /* IE6 */
+	.gallery.custom-state-active { background: #eee; }
+	.gallery li { float: left; width: 96px; padding: 0.4em; margin: 0 0.4em 0.4em 0; text-align: center;border: 1px dashed gray }
+	.gallery li h5 { margin: 0 0 0.4em; cursor: move; }
+	.gallery li a { /*float: right; */}
+	.gallery li a.ui-icon-zoomin { float: left; }
+	.gallery li img { width: 100%; cursor: move; }
+
+	#trash { float: right; width:133px; min-height: 18em; padding: 1%;} * html #trash { height: 18em; } /* IE6 */
+	#trash h4 { line-height: 16px; margin: 0 0 0.4em; }
+	#trash h4 .ui-icon { float: left; }
+	#trash .gallery h5 { display: none; }
+.gallery{clear:both;}
+.ui-icon {text-align:center;}
+/* end of date css */
+
+/* this are for the onlines */
+.wannachat{width: 200px;position: fixed; top: 400px;left:-125px;}
+.seeonline{width:130px}
+
+.viewchat{left:0px;}
+.hidechat{left:-125px;}
+.outer{border:none;}
+.outer img{border:none;}
+.b{border:1px solid #c0c0c0;}
+
+.footer_profilestatus{border: 1px solid #c0c0c0;bottom: 0;min-height: 42px;height:auto;left: 0; position: fixed;right: 0;background:#fff;}
+.users_footer_stats{margin:0 auto;width:961px;}
+.users_emailf,.users_sharesthis,.users_sharetweet,.users_sharefb,.users_close{border-bottom: 1px solid #C0C0C0;border-left: 1px solid #C0C0C0;border-right: 1px solid #C0C0C0;height: 30px;margin-left: 1px;padding: 5px;}
+.u_ahref a{color:red;}
+.closestatus,.emailfrnd{margin:10px 0 0 9px;}
+.users_close{width:114px;}
+
+
+#notifications{height:200px;}
+#twitter{height:200px;}
+#fbook{height:200px;}
+#emailtofriend{height:200px;}
+#datesearch{height:200px;}
+.contents_stats{margin:5px;}
+.contents_stats a{color:red;}
+.emailtofriends_list{margin-left:20px;width:570px;}
+.stats_emailfriends{width:50px;margin:5px;}
+.stats_emailfriends a{border:none;text-align:center;text-decoration:none;color:red;}
+.stats_emailfriends img{border:none;}
+.red{color:red;}
+#chooseEmail{}
+.emails_rcontainer{border:1px solid #c0c0c0;}
+#account_email_sender{border:none;}
+
+	.angrypost{width:500px;height:20px;border:1px solid #c0c0c0;padding:5px;}
+	.searchform{padding:10px; 0px;}
+	.searchcountry,.searchstatus,.searchtype{padding-right:10px;}
+	.people-search{border:1px solid #FFC0CB;height:50px;width:50px;padding:5px;color:#FFC0CB;}
+	ul#connect-searchresults li{float:left;display:inline;padding:5px;}
+	
